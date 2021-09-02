@@ -1,7 +1,9 @@
 
-<!---
+
 - 👋 Hi, I’m @falk7
 - 👀 I’m interested in sports, football, coding, learning new stuff
+
+<!---
 - 🌱 I’m currently relearning basic software dev stuff like data structures
 - 💞️ I’m looking to collaborate on any interesting projects that help me learn faster
 - 📫 How to reach me: https://twitter.com/schaumowitsch
